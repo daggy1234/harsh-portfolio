@@ -25,7 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import epicenter from "./company/epicenter.png";
+import gmetri from "./company/gmetri-logo-whiteback.png";
+import star from "./company/star.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -59,4 +61,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  epicenter,
+  gmetri,
+  star,
 };
